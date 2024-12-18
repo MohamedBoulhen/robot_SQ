@@ -1,0 +1,25 @@
+2024-12-18 13:09:50,300 - INFO - Navigated to the intranet website
+2024-12-18 13:09:50,307 - ERROR - Login failed: Frame.fill() missing 1 required positional argument: 'value'
+2024-12-18 13:09:50,308 - ERROR - Error in processing: Frame.fill() missing 1 required positional argument: 'value'
+2024-12-18 13:09:50,308 - ERROR - Processing error: Frame.fill() missing 1 required positional argument: 'value'
+2024-12-18 13:10:11,115 - ERROR - Error logging out: Page.click: Target page, context or browser has been closed
+Call log:
+  - waiting for locator("text=Log out")
+
+2024-12-18 13:11:12,788 - INFO - Navigated to the intranet website
+2024-12-18 13:11:12,798 - ERROR - Login failed: Frame.fill() missing 1 required positional argument: 'value'
+2024-12-18 13:11:12,798 - ERROR - Error in processing: Frame.fill() missing 1 required positional argument: 'value'
+2024-12-18 13:11:12,799 - ERROR - Processing error: Frame.fill() missing 1 required positional argument: 'value'
+2024-12-18 13:11:17,817 - ERROR - Error logging out: Page.click: Target page, context or browser has been closed
+Call log:
+  - waiting for locator("text=Log out")
+
+2024-12-18 13:11:43,416 - ERROR - Error in processing: Frame.fill() missing 1 required positional argument: 'value'
+2024-12-18 13:13:38,146 - INFO - Navigated to the intranet website
+2024-12-18 13:13:38,153 - ERROR - Login failed: Frame.fill() missing 1 required positional argument: 'value'
+2024-12-18 13:13:38,153 - ERROR - Error in processing: Frame.fill() missing 1 required positional argument: 'value'
+2024-12-18 13:13:38,153 - ERROR - Processing error: Frame.fill() missing 1 required positional argument: 'value'
+2024-12-18 13:13:49,472 - ERROR - Error logging out: Page.click: Target page, context or browser has been closed
+Call log:
+  - waiting for locator("text=Log out")
+
